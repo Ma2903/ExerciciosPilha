@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\pilha\bin\Debug\net8.0\pilha.exe
+C:\Users\aluno\Desktop\pilha\bin\Debug\net8.0\pilha.deps.json
+C:\Users\aluno\Desktop\pilha\bin\Debug\net8.0\pilha.runtimeconfig.json
+C:\Users\aluno\Desktop\pilha\bin\Debug\net8.0\pilha.dll
+C:\Users\aluno\Desktop\pilha\bin\Debug\net8.0\pilha.pdb
+C:\Users\aluno\Desktop\pilha\obj\Debug\net8.0\pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\pilha\obj\Debug\net8.0\pilha.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\pilha\obj\Debug\net8.0\pilha.AssemblyInfo.cs
+C:\Users\aluno\Desktop\pilha\obj\Debug\net8.0\pilha.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\pilha\obj\Debug\net8.0\pilha.dll
+C:\Users\aluno\Desktop\pilha\obj\Debug\net8.0\refint\pilha.dll
+C:\Users\aluno\Desktop\pilha\obj\Debug\net8.0\pilha.pdb
+C:\Users\aluno\Desktop\pilha\obj\Debug\net8.0\pilha.genruntimeconfig.cache
+C:\Users\aluno\Desktop\pilha\obj\Debug\net8.0\ref\pilha.dll

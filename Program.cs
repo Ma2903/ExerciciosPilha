@@ -6,6 +6,8 @@ namespace FilaFIFO
     {
         static void Main(string[] args)
         {
+            // Recadinho para o professor Bruno (Esta bagunçado, não é a melhor maneira de se implementar
+            // mas acho que a Lógica está correta!)
             // Exercício 1
             Pilha pilha = new Pilha();
             Documento documento = new Documento("aaaaa", "bbbbbbbbb", "700", 123);

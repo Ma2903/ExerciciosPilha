@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\pilha\\pilha.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\ExerciciosPilha\\pilha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\pilha\\pilha.csproj": {
+    "C:\\Users\\aluno\\Desktop\\ExerciciosPilha\\pilha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\pilha\\pilha.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\ExerciciosPilha\\pilha.csproj",
         "projectName": "pilha",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\pilha\\pilha.csproj",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\ExerciciosPilha\\pilha.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\pilha\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\ExerciciosPilha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
